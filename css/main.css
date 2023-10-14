@@ -278,7 +278,7 @@ footer a:not(.nav-link) {
 @media (min-width: 768px) {
    .col-md-8 {
        flex: 0 0 auto;
-       width: 25%;
+       width: 29.3333%;
    }
 }
 
@@ -291,4 +291,13 @@ footer a:not(.nav-link) {
 	font-size: 82.2%;
 	margin-left: -10%;
 	margin-right: -10%;
+}
+
+#team h4 {
+    margin-top: 53px;
+    margin-bottom: -40px;
+}
+
+.carousel-inner {
+    margin-left: 63px;
 }
